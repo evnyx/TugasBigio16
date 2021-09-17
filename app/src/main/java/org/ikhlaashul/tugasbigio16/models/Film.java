@@ -164,4 +164,5 @@ public class Film implements Serializable
 
     @SerializedName("species")
     public ArrayList<String> speciesUrls;
+
 }

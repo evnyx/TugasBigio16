@@ -57,5 +57,4 @@ public class Starship extends Vehicle implements Serializable
 
     @SerializedName("MGLT")
     public String mglt;
-
 }

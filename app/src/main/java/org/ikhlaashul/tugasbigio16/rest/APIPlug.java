@@ -29,9 +29,5 @@ public interface APIPlug
     @GET("vehicles")
     Call<VehicleResults> searchVehicles(@Query("search") String search);
 
-
-
-
-
 }
 

@@ -45,6 +45,4 @@ public class Splash extends AppCompatActivity
             getWindow().clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
         }
     }
-
-
 }

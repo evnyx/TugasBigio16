@@ -159,3 +159,4 @@ public class Planet implements Serializable
     @SerializedName("films")
     public ArrayList<String> filmsUrls;
 }
+
