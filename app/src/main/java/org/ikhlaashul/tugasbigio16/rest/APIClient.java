@@ -44,8 +44,4 @@ public class APIClient
 
         REST_CLIENT = retrofit.create(APIPlug.class);
     }
-
-
-
-
 }
